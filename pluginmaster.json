@@ -12,15 +12,15 @@
             "RepoUrl": "https://github.com/UcanPatatess/Sample",
             "DownloadCount": 31,
             "LastUpdate": 1723016089435,
-            "DownloadLinkInstall": "https://github.com/UcanPatatess/MyDalamudPlugins/raw/refs/heads/main/latest.zip",
-            "DownloadLinkUpdate": "https://github.com/UcanPatatess/MyDalamudPlugins/raw/refs/heads/main/latest.zip",
+            "DownloadLinkInstall": "https://github.com/UcanPatatess/MyDalamudPlugins/raw/refs/heads/main/Release/latest.zip",
+            "DownloadLinkUpdate": "https://github.com/UcanPatatess/MyDalamudPlugins/raw/refs/heads/main/Release/latest.zip",
             "AssemblyVersion": "0.0.0.1",
             "ApplicableVersion": "any",
             "DalamudApiLevel": 11,
             "Changelog": "- Selamlar:D",
             "IsTestingExclusive": false,
             "TestingAssemblyVersion": "1.3.0.4",
-            "DownloadLinkTesting": "https://github.com/UcanPatatess/MyDalamudPlugins/raw/refs/heads/main/latest.zip",
+            "DownloadLinkTesting": "https://github.com/UcanPatatess/MyDalamudPlugins/raw/refs/heads/main/Release/latest.zip",
             "TestingDalamudApiLevel": "9",
             "IconUrl": "https://github.com/UcanPatatess/Sample/blob/master/Data/UcanPatates.png"
         }
