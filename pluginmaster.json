@@ -1,11 +1,28 @@
 {
     "Plugins": [
         {
+            "Author": "UcanPatates",
+            "Name": "GlobalTurnIn",
+            "Punchline": "Time to make some gill.",
+            "Description": "This Plugin will Automaticly turn in your Deltascape , Gordian and Alexandrian parts.",
+            "Tags": [
+              "automation","gill"
+            ],
             "InternalName": "GlobalTurnIn",
+            "RepoUrl": "https://github.com/UcanPatatess/Sample",
+            "DownloadCount": 31,
+            "LastUpdate": 1723016089435,
+            "DownloadLinkInstall": "https://github.com/UcanPatatess/MyDalamudPlugins/raw/refs/heads/main/GTPotato.zip",
+            "DownloadLinkUpdate": "https://github.com/UcanPatatess/MyDalamudPlugins/raw/refs/heads/main/GTPotato.zip",
             "AssemblyVersion": "0.0.0.1",
+            "ApplicableVersion": "any",
             "DalamudApiLevel": 11,
+            "Changelog": "- Selamlar:D",
             "IsTestingExclusive": false,
-            "DownloadLink": "https://github.com/UcanPatatess/MyDalamudPlugins/raw/refs/heads/main/GTPotato.zip"
+            "TestingAssemblyVersion": "1.3.0.4",
+            "DownloadLinkTesting": "https://github.com/UcanPatatess/MyDalamudPlugins/raw/refs/heads/main/GTPotato.zip",
+            "TestingDalamudApiLevel": "9",
+            "IconUrl": "https://github.com/UcanPatatess/Sample/blob/master/Data/UcanPatates.png"
         }
     ]
 }
