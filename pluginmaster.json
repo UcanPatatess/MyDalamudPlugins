@@ -19,9 +19,6 @@
         "DalamudApiLevel": 11,
         "Changelog": "- Selamlar:D",
         "IsTestingExclusive": false,
-        "TestingAssemblyVersion": "1.3.0.4",
-        "DownloadLinkTesting": "https://github.com/UcanPatatess/MyDalamudPlugins/raw/refs/heads/main/Release/latest.zip",
-        "TestingDalamudApiLevel": "9",
         "IconUrl": "https://raw.githubusercontent.com/UcanPatatess/Sample/refs/heads/master/Data/UcanPatates.png"
     }
 ]
