@@ -8,16 +8,15 @@
             "automation",
             "gill"
         ],
-        "InternalName": "SamplePlugin",
+        "InternalName": "GlobalTurnIn",
         "RepoUrl": "https://github.com/UcanPatatess/Sample",
         "DownloadCount": 31,
         "LastUpdate": 1723016089436,
         "DownloadLinkInstall": "https://github.com/UcanPatatess/MyDalamudPlugins/raw/refs/heads/main/Release/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UcanPatatess/MyDalamudPlugins/raw/refs/heads/main/Release/latest.zip",
-        "AssemblyVersion": "0.0.0.2",
+        "AssemblyVersion": "0.0.0.1",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 11,
-        "Changelog": "- Selamlar:D",
         "IsTestingExclusive": false,
         "IconUrl": "https://raw.githubusercontent.com/UcanPatatess/Sample/refs/heads/master/Data/UcanPatates.png"
     }
