@@ -13,7 +13,7 @@
         "DownloadCount": 31,
         "DownloadLinkInstall": "https://github.com/UcanPatatess/MyDalamudPlugins/raw/refs/heads/main/Release/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UcanPatatess/MyDalamudPlugins/raw/refs/heads/main/Release/latest.zip",
-        "AssemblyVersion": "0.0.0.4",
+        "AssemblyVersion": "0.0.0.5",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 11,
         "IsTestingExclusive": false,
