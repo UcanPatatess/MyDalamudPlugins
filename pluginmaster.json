@@ -13,10 +13,10 @@
         "DownloadCount": 31,
         "DownloadLinkInstall": "https://github.com/UcanPatatess/MyDalamudPlugins/raw/refs/heads/main/Release/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UcanPatatess/MyDalamudPlugins/raw/refs/heads/main/Release/latest.zip",
-        "AssemblyVersion": "0.0.0.5",
+        "AssemblyVersion": "0.0.0.7",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 11,
         "IsTestingExclusive": false,
-        "IconUrl": "https://raw.githubusercontent.com/UcanPatatess/MyDalamudPlugins/refs/heads/main/Data/Globallala15548.png"
+        "IconUrl": "https://github.com/UcanPatatess/MyDalamudPlugins/blob/main/Data/Globallala15548.png?raw=true"
     }
 ]
